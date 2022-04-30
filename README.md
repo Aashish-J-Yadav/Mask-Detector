@@ -1,6 +1,6 @@
 # Mask-Detector
 
-How To Download And Run this project
+## How To Download And Run this project
 
 Use any text editor to view the code.
 
